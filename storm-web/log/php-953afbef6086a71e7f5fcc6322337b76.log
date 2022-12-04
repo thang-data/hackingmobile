@@ -1,0 +1,16 @@
+[Fri Dec  2 08:16:43 2022] PHP 8.0.26 Development Server (http://localhost:2525) started
+[Fri Dec  2 08:16:53 2022] [::1]:61001 Accepted
+[Fri Dec  2 08:16:53 2022] [::1]:61001 [302]: GET /
+[Fri Dec  2 08:16:53 2022] [::1]:61001 Closing
+[Fri Dec  2 08:16:53 2022] [::1]:61002 Accepted
+[Fri Dec  2 08:16:53 2022] [::1]:61002 [200]: GET /login.php
+[Fri Dec  2 08:16:53 2022] [::1]:61002 Closing
+[Fri Dec  2 08:16:53 2022] [::1]:61003 Accepted
+[Fri Dec  2 08:16:53 2022] [::1]:61004 Accepted
+[Fri Dec  2 08:16:53 2022] [::1]:61003 [200]: GET /assets/css/bootstrap.min.css
+[Fri Dec  2 08:16:53 2022] [::1]:61004 [200]: GET /assets/css/style.css
+[Fri Dec  2 08:16:53 2022] [::1]:61003 Closing
+[Fri Dec  2 08:16:53 2022] [::1]:61004 Closing
+[Fri Dec  2 08:16:53 2022] [::1]:61005 Accepted
+[Fri Dec  2 08:16:53 2022] [::1]:61005 [404]: GET /favicon.ico - No such file or directory
+[Fri Dec  2 08:16:53 2022] [::1]:61005 Closing

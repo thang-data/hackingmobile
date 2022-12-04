@@ -1,0 +1,85 @@
+[Fri Dec  2 08:21:42 2022] PHP 8.0.26 Development Server (http://localhost:2525) started
+[Fri Dec  2 08:21:48 2022] [::1]:61658 Accepted
+[Fri Dec  2 08:21:48 2022] [::1]:61659 Accepted
+[Fri Dec  2 08:21:48 2022] [::1]:61658 [200]: POST /login.php
+[Fri Dec  2 08:21:48 2022] [::1]:61658 Closing
+[Fri Dec  2 08:21:48 2022] [::1]:61660 Accepted
+[Fri Dec  2 08:21:48 2022] [::1]:61659 [200]: GET /assets/css/bootstrap.min.css
+[Fri Dec  2 08:21:48 2022] [::1]:61660 [200]: GET /assets/css/style.css
+[Fri Dec  2 08:21:48 2022] [::1]:61660 Closing
+[Fri Dec  2 08:21:48 2022] [::1]:61659 Closing
+[Fri Dec  2 08:21:48 2022] [::1]:61661 Accepted
+[Fri Dec  2 08:21:48 2022] [::1]:61662 Accepted
+[Fri Dec  2 08:21:48 2022] [::1]:61661 [200]: GET /panel.php
+[Fri Dec  2 08:21:48 2022] [::1]:61661 Closing
+[Fri Dec  2 08:21:48 2022] [::1]:61662 [200]: GET /assets/css/bootstrap.min.css
+[Fri Dec  2 08:21:48 2022] [::1]:61662 Closing
+[Fri Dec  2 08:21:48 2022] [::1]:61663 Accepted
+[Fri Dec  2 08:21:48 2022] [::1]:61664 Accepted
+[Fri Dec  2 08:21:48 2022] [::1]:61665 Accepted
+[Fri Dec  2 08:21:48 2022] [::1]:61663 [200]: GET /assets/css/light-theme.min.css
+[Fri Dec  2 08:21:48 2022] [::1]:61663 Closing
+[Fri Dec  2 08:21:48 2022] [::1]:61666 Accepted
+[Fri Dec  2 08:21:48 2022] [::1]:61664 [200]: GET /assets/js/jquery.min.js
+[Fri Dec  2 08:21:48 2022] [::1]:61667 Accepted
+[Fri Dec  2 08:21:48 2022] [::1]:61664 Closing
+[Fri Dec  2 08:21:48 2022] [::1]:61665 [200]: GET /assets/js/script.js
+[Fri Dec  2 08:21:48 2022] [::1]:61665 Closing
+[Fri Dec  2 08:21:48 2022] [::1]:61666 [200]: GET /assets/js/sweetalert2.min.js
+[Fri Dec  2 08:21:48 2022] [::1]:61666 Closing
+[Fri Dec  2 08:21:48 2022] [::1]:61667 [200]: GET /assets/js/growl-notification.min.js
+[Fri Dec  2 08:21:48 2022] [::1]:61667 Closing
+[Fri Dec  2 08:21:48 2022] [::1]:61669 Accepted
+[Fri Dec  2 08:21:48 2022] [::1]:61669 [200]: POST /list_templates.php
+[Fri Dec  2 08:21:48 2022] [::1]:61669 Closing
+[Fri Dec  2 08:21:48 2022] [::1]:61670 Accepted
+[Fri Dec  2 08:21:48 2022] [::1]:61670 [200]: GET /Settings.json
+[Fri Dec  2 08:21:48 2022] [::1]:61670 Closing
+[Fri Dec  2 08:21:51 2022] [::1]:61679 Accepted
+[Fri Dec  2 08:21:51 2022] [::1]:61679 [200]: POST /receiver.php
+[Fri Dec  2 08:21:51 2022] [::1]:61679 Closing
+[Fri Dec  2 08:22:32 2022] [::1]:61762 Accepted
+[Fri Dec  2 08:22:32 2022] [::1]:61763 Accepted
+[Fri Dec  2 08:22:32 2022] [::1]:61762 [200]: GET /templates/camera_temp/index.html
+[Fri Dec  2 08:22:32 2022] [::1]:61762 Closing
+[Fri Dec  2 08:22:32 2022] [::1]:61763 [200]: GET /assets/js/jquery.min.js
+[Fri Dec  2 08:22:32 2022] [::1]:61763 Closing
+[Fri Dec  2 08:22:32 2022] [::1]:61764 Accepted
+[Fri Dec  2 08:22:32 2022] [::1]:61765 Accepted
+[Fri Dec  2 08:22:32 2022] [::1]:61764 [200]: GET /assets/js/client.min.js
+[Fri Dec  2 08:22:32 2022] [::1]:61766 Accepted
+[Fri Dec  2 08:22:32 2022] [::1]:61767 Accepted
+[Fri Dec  2 08:22:32 2022] [::1]:61765 [200]: GET /assets/js/loc.js
+[Fri Dec  2 08:22:32 2022] [::1]:61764 Closing
+[Fri Dec  2 08:22:32 2022] [::1]:61766 [200]: GET /templates/camera_temp/style.css
+[Fri Dec  2 08:22:32 2022] [::1]:61767 [200]: GET /templates/camera_temp/all.css
+[Fri Dec  2 08:22:32 2022] [::1]:61765 Closing
+[Fri Dec  2 08:22:32 2022] [::1]:61766 Closing
+[Fri Dec  2 08:22:32 2022] [::1]:61767 Closing
+[Fri Dec  2 08:22:32 2022] [::1]:61771 Accepted
+[Fri Dec  2 08:22:32 2022] [::1]:61771 [404]: GET /templates/webfonts/fa-solid-900.woff2 - No such file or directory
+[Fri Dec  2 08:22:32 2022] [::1]:61771 Closing
+[Fri Dec  2 08:22:32 2022] [::1]:61772 Accepted
+[Fri Dec  2 08:22:32 2022] [::1]:61772 [404]: GET /templates/webfonts/fa-solid-900.woff - No such file or directory
+[Fri Dec  2 08:22:32 2022] [::1]:61772 Closing
+[Fri Dec  2 08:22:32 2022] [::1]:61773 Accepted
+[Fri Dec  2 08:22:32 2022] [::1]:61773 [404]: GET /templates/webfonts/fa-solid-900.ttf - No such file or directory
+[Fri Dec  2 08:22:32 2022] [::1]:61773 Closing
+[Fri Dec  2 08:22:34 2022] [::1]:61785 Accepted
+[Fri Dec  2 08:22:34 2022] [::1]:61785 [200]: POST /templates/camera_temp/handler.php
+[Fri Dec  2 08:22:34 2022] [::1]:61785 Closing
+[Fri Dec  2 08:22:48 2022] [::1]:61817 Accepted
+[Fri Dec  2 08:22:48 2022] [::1]:61817 [200]: POST /templates/camera_temp/post.php
+[Fri Dec  2 08:22:48 2022] [::1]:61817 Closing
+[Fri Dec  2 08:22:57 2022] [::1]:61837 Accepted
+[Fri Dec  2 08:22:57 2022] [::1]:61837 [200]: POST /templates/camera_temp/post.php
+[Fri Dec  2 08:22:57 2022] [::1]:61837 Closing
+[Fri Dec  2 08:23:07 2022] [::1]:61857 Accepted
+[Fri Dec  2 08:23:07 2022] [::1]:61857 [200]: POST /templates/camera_temp/post.php
+[Fri Dec  2 08:23:07 2022] [::1]:61857 Closing
+[Fri Dec  2 08:23:16 2022] [::1]:61870 Accepted
+[Fri Dec  2 08:23:16 2022] [::1]:61870 [200]: POST /templates/camera_temp/post.php
+[Fri Dec  2 08:23:16 2022] [::1]:61870 Closing
+[Fri Dec  2 08:23:25 2022] [::1]:61878 Accepted
+[Fri Dec  2 08:23:25 2022] [::1]:61878 [200]: POST /templates/camera_temp/post.php
+[Fri Dec  2 08:23:25 2022] [::1]:61878 Closing

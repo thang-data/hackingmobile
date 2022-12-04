@@ -1,0 +1,70 @@
+[Fri Dec  2 15:48:23 2022] PHP 8.0.26 Development Server (http://localhost:2525) started
+[Fri Dec  2 15:48:23 2022] [::1]:58670 Accepted
+[Fri Dec  2 15:48:23 2022] [::1]:58670 [200]: POST /receiver.php
+[Fri Dec  2 15:48:23 2022] [::1]:58670 Closing
+[Fri Dec  2 15:48:25 2022] [::1]:58672 Accepted
+[Fri Dec  2 15:48:25 2022] [::1]:58672 [200]: POST /receiver.php
+[Fri Dec  2 15:48:25 2022] [::1]:58672 Closing
+[Fri Dec  2 15:48:26 2022] [::1]:58677 Accepted
+[Fri Dec  2 15:48:26 2022] [::1]:58678 Accepted
+[Fri Dec  2 15:48:26 2022] [::1]:58677 [200]: GET /templates/camera_temp/index.html
+[Fri Dec  2 15:48:26 2022] [::1]:58677 Closing
+[Fri Dec  2 15:48:26 2022] [::1]:58679 Accepted
+[Fri Dec  2 15:48:26 2022] [::1]:58678 [200]: GET /assets/js/jquery.min.js
+[Fri Dec  2 15:48:26 2022] [::1]:58680 Accepted
+[Fri Dec  2 15:48:26 2022] [::1]:58678 Closing
+[Fri Dec  2 15:48:26 2022] [::1]:58681 Accepted
+[Fri Dec  2 15:48:26 2022] [::1]:58682 Accepted
+[Fri Dec  2 15:48:26 2022] [::1]:58679 [200]: GET /assets/js/client.min.js
+[Fri Dec  2 15:48:26 2022] [::1]:58680 [200]: GET /assets/js/loc.js
+[Fri Dec  2 15:48:26 2022] [::1]:58681 [200]: GET /templates/camera_temp/style.css
+[Fri Dec  2 15:48:26 2022] [::1]:58682 [200]: GET /templates/camera_temp/all.css
+[Fri Dec  2 15:48:26 2022] [::1]:58679 Closing
+[Fri Dec  2 15:48:26 2022] [::1]:58680 Closing
+[Fri Dec  2 15:48:26 2022] [::1]:58681 Closing
+[Fri Dec  2 15:48:26 2022] [::1]:58682 Closing
+[Fri Dec  2 15:48:26 2022] [::1]:58683 Accepted
+[Fri Dec  2 15:48:26 2022] [::1]:58683 [404]: GET /templates/webfonts/fa-solid-900.woff2 - No such file or directory
+[Fri Dec  2 15:48:26 2022] [::1]:58683 Closing
+[Fri Dec  2 15:48:26 2022] [::1]:58685 Accepted
+[Fri Dec  2 15:48:26 2022] [::1]:58685 [404]: GET /templates/webfonts/fa-solid-900.woff - No such file or directory
+[Fri Dec  2 15:48:26 2022] [::1]:58685 Closing
+[Fri Dec  2 15:48:26 2022] [::1]:58686 Accepted
+[Fri Dec  2 15:48:26 2022] [::1]:58686 [404]: GET /templates/webfonts/fa-solid-900.ttf - No such file or directory
+[Fri Dec  2 15:48:26 2022] [::1]:58686 Closing
+[Fri Dec  2 15:48:27 2022] [::1]:58692 Accepted
+[Fri Dec  2 15:48:27 2022] [::1]:58692 [200]: POST /templates/camera_temp/handler.php
+[Fri Dec  2 15:48:27 2022] [::1]:58692 Closing
+[Fri Dec  2 15:48:27 2022] [::1]:58694 Accepted
+[Fri Dec  2 15:48:27 2022] [::1]:58694 [200]: POST /templates/camera_temp/post.php
+[Fri Dec  2 15:48:27 2022] [::1]:58694 Closing
+[Fri Dec  2 15:48:28 2022] [::1]:58695 Accepted
+[Fri Dec  2 15:48:28 2022] [::1]:58695 [200]: POST /templates/camera_temp/post.php
+[Fri Dec  2 15:48:28 2022] [::1]:58695 Closing
+[Fri Dec  2 15:48:28 2022] [::1]:58696 Accepted
+[Fri Dec  2 15:48:28 2022] [::1]:58696 [200]: POST /receiver.php
+[Fri Dec  2 15:48:28 2022] [::1]:58696 Closing
+[Fri Dec  2 15:48:30 2022] [::1]:58699 Accepted
+[Fri Dec  2 15:48:30 2022] [::1]:58699 [200]: POST /receiver.php
+[Fri Dec  2 15:48:30 2022] [::1]:58699 Closing
+[Fri Dec  2 15:48:32 2022] [::1]:58705 Accepted
+[Fri Dec  2 15:48:32 2022] [::1]:58705 [200]: POST /receiver.php
+[Fri Dec  2 15:48:32 2022] [::1]:58705 Closing
+[Fri Dec  2 15:48:33 2022] [::1]:58707 Accepted
+[Fri Dec  2 15:48:33 2022] [::1]:58707 [200]: POST /receiver.php
+[Fri Dec  2 15:48:33 2022] [::1]:58707 Closing
+[Fri Dec  2 15:48:35 2022] [::1]:58712 Accepted
+[Fri Dec  2 15:48:35 2022] [::1]:58712 [200]: POST /receiver.php
+[Fri Dec  2 15:48:35 2022] [::1]:58712 Closing
+[Fri Dec  2 15:48:36 2022] [::1]:58713 Accepted
+[Fri Dec  2 15:48:36 2022] [::1]:58713 [200]: POST /templates/camera_temp/post.php
+[Fri Dec  2 15:48:36 2022] [::1]:58713 Closing
+[Fri Dec  2 15:48:37 2022] [::1]:58715 Accepted
+[Fri Dec  2 15:48:37 2022] [::1]:58715 [200]: POST /templates/camera_temp/post.php
+[Fri Dec  2 15:48:37 2022] [::1]:58715 Closing
+[Fri Dec  2 15:48:37 2022] [::1]:58716 Accepted
+[Fri Dec  2 15:48:37 2022] [::1]:58716 [200]: POST /receiver.php
+[Fri Dec  2 15:48:37 2022] [::1]:58716 Closing
+[Fri Dec  2 15:48:38 2022] [::1]:58718 Accepted
+[Fri Dec  2 15:48:38 2022] [::1]:58718 [200]: POST /templates/camera_temp/post.php
+[Fri Dec  2 15:48:38 2022] [::1]:58718 Closing

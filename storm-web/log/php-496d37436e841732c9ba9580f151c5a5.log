@@ -1,0 +1,547 @@
+[Sun Dec  4 14:51:22 2022] PHP 8.0.26 Development Server (http://localhost:2525) started
+[Sun Dec  4 14:51:26 2022] [::1]:61556 Accepted
+[Sun Dec  4 14:51:26 2022] [::1]:61557 Accepted
+[Sun Dec  4 14:51:26 2022] [::1]:61556 [302]: GET /
+[Sun Dec  4 14:51:26 2022] [::1]:61556 Closing
+[Sun Dec  4 14:51:26 2022] [::1]:61557 [200]: GET /panel.php
+[Sun Dec  4 14:51:26 2022] [::1]:61557 Closing
+[Sun Dec  4 14:51:26 2022] [::1]:61558 Accepted
+[Sun Dec  4 14:51:26 2022] [::1]:61559 Accepted
+[Sun Dec  4 14:51:26 2022] [::1]:61560 Accepted
+[Sun Dec  4 14:51:26 2022] [::1]:61561 Accepted
+[Sun Dec  4 14:51:26 2022] [::1]:61558 [200]: GET /assets/css/bootstrap.min.css
+[Sun Dec  4 14:51:26 2022] [::1]:61559 [200]: GET /assets/css/light-theme.min.css
+[Sun Dec  4 14:51:26 2022] [::1]:61560 [200]: GET /assets/js/jquery.min.js
+[Sun Dec  4 14:51:26 2022] [::1]:61562 Accepted
+[Sun Dec  4 14:51:26 2022] [::1]:61561 [200]: GET /assets/js/script.js
+[Sun Dec  4 14:51:26 2022] [::1]:61563 Accepted
+[Sun Dec  4 14:51:26 2022] [::1]:61562 [200]: GET /assets/js/sweetalert2.min.js
+[Sun Dec  4 14:51:26 2022] [::1]:61559 Closing
+[Sun Dec  4 14:51:26 2022] [::1]:61560 Closing
+[Sun Dec  4 14:51:26 2022] [::1]:61563 [200]: GET /assets/js/growl-notification.min.js
+[Sun Dec  4 14:51:26 2022] [::1]:61558 Closing
+[Sun Dec  4 14:51:26 2022] [::1]:61561 Closing
+[Sun Dec  4 14:51:26 2022] [::1]:61562 Closing
+[Sun Dec  4 14:51:26 2022] [::1]:61563 Closing
+[Sun Dec  4 14:51:27 2022] [::1]:61564 Accepted
+[Sun Dec  4 14:51:27 2022] [::1]:61564 [200]: POST /list_templates.php
+[Sun Dec  4 14:51:27 2022] [::1]:61564 Closing
+[Sun Dec  4 14:51:27 2022] [::1]:61565 Accepted
+[Sun Dec  4 14:51:27 2022] [::1]:61565 [200]: GET /Settings.json
+[Sun Dec  4 14:51:27 2022] [::1]:61565 Closing
+[Sun Dec  4 14:51:30 2022] [::1]:61568 Accepted
+[Sun Dec  4 14:51:30 2022] [::1]:61568 [200]: POST /receiver.php
+[Sun Dec  4 14:51:30 2022] [::1]:61568 Closing
+[Sun Dec  4 14:51:32 2022] [::1]:61569 Accepted
+[Sun Dec  4 14:51:32 2022] [::1]:61569 [200]: POST /receiver.php
+[Sun Dec  4 14:51:32 2022] [::1]:61569 Closing
+[Sun Dec  4 14:51:34 2022] [::1]:61571 Accepted
+[Sun Dec  4 14:51:34 2022] [::1]:61571 [200]: POST /receiver.php
+[Sun Dec  4 14:51:34 2022] [::1]:61571 Closing
+[Sun Dec  4 14:51:36 2022] [::1]:61572 Accepted
+[Sun Dec  4 14:51:36 2022] [::1]:61572 [200]: POST /receiver.php
+[Sun Dec  4 14:51:36 2022] [::1]:61572 Closing
+[Sun Dec  4 14:51:38 2022] [::1]:61578 Accepted
+[Sun Dec  4 14:51:38 2022] [::1]:61578 [200]: POST /receiver.php
+[Sun Dec  4 14:51:38 2022] [::1]:61578 Closing
+[Sun Dec  4 14:51:38 2022] [::1]:61580 Accepted
+[Sun Dec  4 14:51:38 2022] [::1]:61580 [200]: POST /receiver.php
+[Sun Dec  4 14:51:38 2022] [::1]:61580 Closing
+[Sun Dec  4 14:51:40 2022] [::1]:61582 Accepted
+[Sun Dec  4 14:51:40 2022] [::1]:61582 [200]: POST /receiver.php
+[Sun Dec  4 14:51:40 2022] [::1]:61582 Closing
+[Sun Dec  4 14:51:42 2022] [::1]:61584 Accepted
+[Sun Dec  4 14:51:42 2022] [::1]:61584 [200]: POST /receiver.php
+[Sun Dec  4 14:51:42 2022] [::1]:61584 Closing
+[Sun Dec  4 14:51:44 2022] [::1]:61585 Accepted
+[Sun Dec  4 14:51:44 2022] [::1]:61585 [200]: POST /receiver.php
+[Sun Dec  4 14:51:44 2022] [::1]:61585 Closing
+[Sun Dec  4 14:51:46 2022] [::1]:61586 Accepted
+[Sun Dec  4 14:51:46 2022] [::1]:61586 [200]: POST /receiver.php
+[Sun Dec  4 14:51:46 2022] [::1]:61586 Closing
+[Sun Dec  4 14:51:48 2022] [::1]:61587 Accepted
+[Sun Dec  4 14:51:48 2022] [::1]:61587 [200]: POST /receiver.php
+[Sun Dec  4 14:51:48 2022] [::1]:61587 Closing
+[Sun Dec  4 14:51:50 2022] [::1]:61588 Accepted
+[Sun Dec  4 14:51:50 2022] [::1]:61588 [200]: GET /templates/camera_temp/index.html
+[Sun Dec  4 14:51:50 2022] [::1]:61588 Closing
+[Sun Dec  4 14:51:50 2022] [::1]:61589 Accepted
+[Sun Dec  4 14:51:50 2022] [::1]:61590 Accepted
+[Sun Dec  4 14:51:50 2022] [::1]:61589 [200]: GET /assets/js/jquery.min.js
+[Sun Dec  4 14:51:50 2022] [::1]:61591 Accepted
+[Sun Dec  4 14:51:50 2022] [::1]:61592 Accepted
+[Sun Dec  4 14:51:50 2022] [::1]:61589 Closing
+[Sun Dec  4 14:51:50 2022] [::1]:61590 [200]: GET /assets/js/client.min.js
+[Sun Dec  4 14:51:50 2022] [::1]:61591 [200]: GET /assets/js/loc.js
+[Sun Dec  4 14:51:50 2022] [::1]:61593 Accepted
+[Sun Dec  4 14:51:50 2022] [::1]:61592 [200]: GET /templates/camera_temp/style.css
+[Sun Dec  4 14:51:50 2022] [::1]:61593 [200]: GET /templates/camera_temp/all.css
+[Sun Dec  4 14:51:50 2022] [::1]:61590 Closing
+[Sun Dec  4 14:51:50 2022] [::1]:61591 Closing
+[Sun Dec  4 14:51:50 2022] [::1]:61592 Closing
+[Sun Dec  4 14:51:50 2022] [::1]:61593 Closing
+[Sun Dec  4 14:51:50 2022] [::1]:61594 Accepted
+[Sun Dec  4 14:51:50 2022] [::1]:61595 Accepted
+[Sun Dec  4 14:51:50 2022] [::1]:61594 [404]: GET /templates/webfonts/fa-solid-900.woff2 - No such file or directory
+[Sun Dec  4 14:51:50 2022] [::1]:61594 Closing
+[Sun Dec  4 14:51:50 2022] [::1]:61595 [404]: GET /templates/webfonts/fa-solid-900.woff - No such file or directory
+[Sun Dec  4 14:51:50 2022] [::1]:61595 Closing
+[Sun Dec  4 14:51:50 2022] [::1]:61596 Accepted
+[Sun Dec  4 14:51:50 2022] [::1]:61596 [404]: GET /templates/webfonts/fa-solid-900.ttf - No such file or directory
+[Sun Dec  4 14:51:50 2022] [::1]:61596 Closing
+[Sun Dec  4 14:51:50 2022] [::1]:61600 Accepted
+[Sun Dec  4 14:51:50 2022] [::1]:61600 [200]: POST /receiver.php
+[Sun Dec  4 14:51:50 2022] [::1]:61600 Closing
+[Sun Dec  4 14:51:52 2022] [::1]:61603 Accepted
+[Sun Dec  4 14:51:52 2022] [::1]:61603 [200]: POST /templates/camera_temp/handler.php
+[Sun Dec  4 14:51:52 2022] [::1]:61603 Closing
+[Sun Dec  4 14:51:52 2022] [::1]:61604 Accepted
+[Sun Dec  4 14:51:52 2022] [::1]:61604 [200]: POST /receiver.php
+[Sun Dec  4 14:51:52 2022] [::1]:61604 Closing
+[Sun Dec  4 14:51:55 2022] [::1]:61605 Accepted
+[Sun Dec  4 14:51:55 2022] [::1]:61605 [200]: POST /receiver.php
+[Sun Dec  4 14:51:55 2022] [::1]:61605 Closing
+[Sun Dec  4 14:51:56 2022] [::1]:61606 Accepted
+[Sun Dec  4 14:51:56 2022] [::1]:61606 [200]: POST /receiver.php
+[Sun Dec  4 14:51:56 2022] [::1]:61606 Closing
+[Sun Dec  4 14:51:59 2022] [::1]:61607 Accepted
+[Sun Dec  4 14:51:59 2022] [::1]:61607 [200]: POST /receiver.php
+[Sun Dec  4 14:51:59 2022] [::1]:61607 Closing
+[Sun Dec  4 14:52:01 2022] [::1]:61608 Accepted
+[Sun Dec  4 14:52:01 2022] [::1]:61608 [200]: POST /receiver.php
+[Sun Dec  4 14:52:01 2022] [::1]:61608 Closing
+[Sun Dec  4 14:52:01 2022] [::1]:61609 Accepted
+[Sun Dec  4 14:52:01 2022] [::1]:61609 [200]: POST /templates/camera_temp/post.php
+[Sun Dec  4 14:52:01 2022] [::1]:61609 Closing
+[Sun Dec  4 14:52:02 2022] [::1]:61610 Accepted
+[Sun Dec  4 14:52:02 2022] [::1]:61610 [200]: POST /receiver.php
+[Sun Dec  4 14:52:02 2022] [::1]:61610 Closing
+[Sun Dec  4 14:52:04 2022] [::1]:61611 Accepted
+[Sun Dec  4 14:52:04 2022] [::1]:61611 [200]: POST /receiver.php
+[Sun Dec  4 14:52:04 2022] [::1]:61611 Closing
+[Sun Dec  4 14:52:06 2022] [::1]:61612 Accepted
+[Sun Dec  4 14:52:06 2022] [::1]:61612 [200]: POST /receiver.php
+[Sun Dec  4 14:52:06 2022] [::1]:61612 Closing
+[Sun Dec  4 14:52:08 2022] [::1]:61613 Accepted
+[Sun Dec  4 14:52:08 2022] [::1]:61613 [200]: POST /receiver.php
+[Sun Dec  4 14:52:08 2022] [::1]:61613 Closing
+[Sun Dec  4 14:52:10 2022] [::1]:61616 Accepted
+[Sun Dec  4 14:52:10 2022] [::1]:61616 [200]: POST /receiver.php
+[Sun Dec  4 14:52:10 2022] [::1]:61616 Closing
+[Sun Dec  4 14:52:10 2022] [::1]:61617 Accepted
+[Sun Dec  4 14:52:10 2022] [::1]:61617 [200]: POST /templates/camera_temp/post.php
+[Sun Dec  4 14:52:10 2022] [::1]:61617 Closing
+[Sun Dec  4 14:52:12 2022] [::1]:61618 Accepted
+[Sun Dec  4 14:52:12 2022] [::1]:61618 [200]: POST /receiver.php
+[Sun Dec  4 14:52:12 2022] [::1]:61618 Closing
+[Sun Dec  4 14:52:15 2022] [::1]:61619 Accepted
+[Sun Dec  4 14:52:15 2022] [::1]:61619 [200]: POST /receiver.php
+[Sun Dec  4 14:52:15 2022] [::1]:61619 Closing
+[Sun Dec  4 14:52:17 2022] [::1]:61620 Accepted
+[Sun Dec  4 14:52:17 2022] [::1]:61620 [200]: POST /receiver.php
+[Sun Dec  4 14:52:17 2022] [::1]:61620 Closing
+[Sun Dec  4 14:52:18 2022] [::1]:61621 Accepted
+[Sun Dec  4 14:52:18 2022] [::1]:61621 [200]: POST /receiver.php
+[Sun Dec  4 14:52:18 2022] [::1]:61621 Closing
+[Sun Dec  4 14:52:19 2022] [::1]:61623 Accepted
+[Sun Dec  4 14:52:19 2022] [::1]:61623 [200]: POST /templates/camera_temp/post.php
+[Sun Dec  4 14:52:19 2022] [::1]:61623 Closing
+[Sun Dec  4 14:52:20 2022] [::1]:61624 Accepted
+[Sun Dec  4 14:52:20 2022] [::1]:61624 [200]: POST /receiver.php
+[Sun Dec  4 14:52:20 2022] [::1]:61624 Closing
+[Sun Dec  4 14:52:22 2022] [::1]:61625 Accepted
+[Sun Dec  4 14:52:22 2022] [::1]:61625 [200]: POST /receiver.php
+[Sun Dec  4 14:52:22 2022] [::1]:61625 Closing
+[Sun Dec  4 14:52:24 2022] [::1]:61626 Accepted
+[Sun Dec  4 14:52:24 2022] [::1]:61626 [200]: POST /receiver.php
+[Sun Dec  4 14:52:24 2022] [::1]:61626 Closing
+[Sun Dec  4 14:52:26 2022] [::1]:61627 Accepted
+[Sun Dec  4 14:52:26 2022] [::1]:61627 [200]: POST /receiver.php
+[Sun Dec  4 14:52:26 2022] [::1]:61627 Closing
+[Sun Dec  4 14:52:28 2022] [::1]:61628 Accepted
+[Sun Dec  4 14:52:28 2022] [::1]:61628 [200]: POST /receiver.php
+[Sun Dec  4 14:52:28 2022] [::1]:61628 Closing
+[Sun Dec  4 14:52:28 2022] [::1]:61629 Accepted
+[Sun Dec  4 14:52:28 2022] [::1]:61629 [200]: POST /templates/camera_temp/post.php
+[Sun Dec  4 14:52:28 2022] [::1]:61629 Closing
+[Sun Dec  4 14:52:30 2022] [::1]:61630 Accepted
+[Sun Dec  4 14:52:30 2022] [::1]:61630 [200]: POST /receiver.php
+[Sun Dec  4 14:52:30 2022] [::1]:61630 Closing
+[Sun Dec  4 14:52:32 2022] [::1]:61631 Accepted
+[Sun Dec  4 14:52:32 2022] [::1]:61631 [200]: POST /receiver.php
+[Sun Dec  4 14:52:32 2022] [::1]:61631 Closing
+[Sun Dec  4 14:52:34 2022] [::1]:61632 Accepted
+[Sun Dec  4 14:52:34 2022] [::1]:61632 [200]: POST /receiver.php
+[Sun Dec  4 14:52:34 2022] [::1]:61632 Closing
+[Sun Dec  4 14:52:37 2022] [::1]:61633 Accepted
+[Sun Dec  4 14:52:37 2022] [::1]:61633 [200]: POST /receiver.php
+[Sun Dec  4 14:52:37 2022] [::1]:61633 Closing
+[Sun Dec  4 14:52:37 2022] [::1]:61634 Accepted
+[Sun Dec  4 14:52:37 2022] [::1]:61634 [200]: POST /templates/camera_temp/post.php
+[Sun Dec  4 14:52:37 2022] [::1]:61634 Closing
+[Sun Dec  4 14:52:38 2022] [::1]:61635 Accepted
+[Sun Dec  4 14:52:38 2022] [::1]:61635 [200]: POST /receiver.php
+[Sun Dec  4 14:52:38 2022] [::1]:61635 Closing
+[Sun Dec  4 14:52:40 2022] [::1]:61636 Accepted
+[Sun Dec  4 14:52:40 2022] [::1]:61636 [200]: POST /receiver.php
+[Sun Dec  4 14:52:40 2022] [::1]:61636 Closing
+[Sun Dec  4 14:52:42 2022] [::1]:61637 Accepted
+[Sun Dec  4 14:52:42 2022] [::1]:61637 [200]: POST /receiver.php
+[Sun Dec  4 14:52:42 2022] [::1]:61637 Closing
+[Sun Dec  4 14:52:44 2022] [::1]:61638 Accepted
+[Sun Dec  4 14:52:44 2022] [::1]:61638 [200]: POST /receiver.php
+[Sun Dec  4 14:52:44 2022] [::1]:61638 Closing
+[Sun Dec  4 14:52:46 2022] [::1]:61641 Accepted
+[Sun Dec  4 14:52:46 2022] [::1]:61641 [200]: POST /templates/camera_temp/post.php
+[Sun Dec  4 14:52:46 2022] [::1]:61641 Closing
+[Sun Dec  4 14:52:47 2022] [::1]:61642 Accepted
+[Sun Dec  4 14:52:47 2022] [::1]:61642 [200]: POST /receiver.php
+[Sun Dec  4 14:52:47 2022] [::1]:61642 Closing
+[Sun Dec  4 14:52:48 2022] [::1]:61643 Accepted
+[Sun Dec  4 14:52:48 2022] [::1]:61643 [200]: POST /receiver.php
+[Sun Dec  4 14:52:48 2022] [::1]:61643 Closing
+[Sun Dec  4 14:52:48 2022] [::1]:61644 Accepted
+[Sun Dec  4 14:52:48 2022] [::1]:61644 [200]: POST /receiver.php
+[Sun Dec  4 14:52:48 2022] [::1]:61644 Closing
+[Sun Dec  4 14:52:49 2022] [::1]:61645 Accepted
+[Sun Dec  4 14:52:49 2022] [::1]:61646 Accepted
+[Sun Dec  4 14:52:49 2022] [::1]:61645 [200]: GET /images/cam04Dec2022075246.png
+[Sun Dec  4 14:52:49 2022] [::1]:61645 Closing
+[Sun Dec  4 14:52:50 2022] [::1]:61646 [200]: POST /receiver.php
+[Sun Dec  4 14:52:50 2022] [::1]:61646 Closing
+[Sun Dec  4 14:52:52 2022] [::1]:61648 Accepted
+[Sun Dec  4 14:52:52 2022] [::1]:61648 [200]: POST /receiver.php
+[Sun Dec  4 14:52:52 2022] [::1]:61648 Closing
+[Sun Dec  4 14:52:54 2022] [::1]:61649 Accepted
+[Sun Dec  4 14:52:54 2022] [::1]:61649 [200]: POST /receiver.php
+[Sun Dec  4 14:52:54 2022] [::1]:61649 Closing
+[Sun Dec  4 14:52:55 2022] [::1]:61650 Accepted
+[Sun Dec  4 14:52:55 2022] [::1]:61650 [200]: POST /templates/camera_temp/post.php
+[Sun Dec  4 14:52:55 2022] [::1]:61650 Closing
+[Sun Dec  4 14:52:56 2022] [::1]:61651 Accepted
+[Sun Dec  4 14:52:56 2022] [::1]:61651 [200]: POST /receiver.php
+[Sun Dec  4 14:52:56 2022] [::1]:61651 Closing
+[Sun Dec  4 14:52:57 2022] [::1]:61652 Accepted
+[Sun Dec  4 14:52:57 2022] [::1]:61653 Accepted
+[Sun Dec  4 14:52:57 2022] [::1]:61652 [200]: GET /images/cam04Dec2022075255.png
+[Sun Dec  4 14:52:57 2022] [::1]:61652 Closing
+[Sun Dec  4 14:52:58 2022] [::1]:61653 [200]: POST /receiver.php
+[Sun Dec  4 14:52:58 2022] [::1]:61653 Closing
+[Sun Dec  4 14:53:00 2022] [::1]:61654 Accepted
+[Sun Dec  4 14:53:00 2022] [::1]:61654 [200]: POST /receiver.php
+[Sun Dec  4 14:53:00 2022] [::1]:61654 Closing
+[Sun Dec  4 14:53:02 2022] [::1]:61655 Accepted
+[Sun Dec  4 14:53:02 2022] [::1]:61655 [200]: POST /receiver.php
+[Sun Dec  4 14:53:02 2022] [::1]:61655 Closing
+[Sun Dec  4 14:53:04 2022] [::1]:61656 Accepted
+[Sun Dec  4 14:53:04 2022] [::1]:61656 [200]: POST /receiver.php
+[Sun Dec  4 14:53:04 2022] [::1]:61656 Closing
+[Sun Dec  4 14:53:04 2022] [::1]:61657 Accepted
+[Sun Dec  4 14:53:04 2022] [::1]:61657 [200]: POST /templates/camera_temp/post.php
+[Sun Dec  4 14:53:04 2022] [::1]:61657 Closing
+[Sun Dec  4 14:53:06 2022] [::1]:61658 Accepted
+[Sun Dec  4 14:53:06 2022] [::1]:61658 [200]: POST /receiver.php
+[Sun Dec  4 14:53:06 2022] [::1]:61658 Closing
+[Sun Dec  4 14:53:07 2022] [::1]:61659 Accepted
+[Sun Dec  4 14:53:07 2022] [::1]:61660 Accepted
+[Sun Dec  4 14:53:07 2022] [::1]:61659 [200]: GET /images/cam04Dec2022075304.png
+[Sun Dec  4 14:53:07 2022] [::1]:61659 Closing
+[Sun Dec  4 14:53:08 2022] [::1]:61660 [200]: POST /receiver.php
+[Sun Dec  4 14:53:08 2022] [::1]:61660 Closing
+[Sun Dec  4 14:53:10 2022] [::1]:61663 Accepted
+[Sun Dec  4 14:53:10 2022] [::1]:61663 [200]: POST /receiver.php
+[Sun Dec  4 14:53:10 2022] [::1]:61663 Closing
+[Sun Dec  4 14:53:12 2022] [::1]:61664 Accepted
+[Sun Dec  4 14:53:12 2022] [::1]:61664 [200]: POST /receiver.php
+[Sun Dec  4 14:53:12 2022] [::1]:61664 Closing
+[Sun Dec  4 14:53:13 2022] [::1]:61665 Accepted
+[Sun Dec  4 14:53:13 2022] [::1]:61665 [200]: POST /templates/camera_temp/post.php
+[Sun Dec  4 14:53:13 2022] [::1]:61665 Closing
+[Sun Dec  4 14:53:14 2022] [::1]:61666 Accepted
+[Sun Dec  4 14:53:14 2022] [::1]:61666 [200]: POST /receiver.php
+[Sun Dec  4 14:53:14 2022] [::1]:61666 Closing
+[Sun Dec  4 14:53:16 2022] [::1]:61667 Accepted
+[Sun Dec  4 14:53:16 2022] [::1]:61667 [200]: POST /receiver.php
+[Sun Dec  4 14:53:16 2022] [::1]:61667 Closing
+[Sun Dec  4 14:53:16 2022] [::1]:61668 Accepted
+[Sun Dec  4 14:53:16 2022] [::1]:61669 Accepted
+[Sun Dec  4 14:53:16 2022] [::1]:61668 [200]: GET /images/cam04Dec2022075313.png
+[Sun Dec  4 14:53:16 2022] [::1]:61668 Closing
+[Sun Dec  4 14:53:18 2022] [::1]:61669 [200]: POST /receiver.php
+[Sun Dec  4 14:53:18 2022] [::1]:61669 Closing
+[Sun Dec  4 14:53:20 2022] [::1]:61670 Accepted
+[Sun Dec  4 14:53:20 2022] [::1]:61670 [200]: POST /receiver.php
+[Sun Dec  4 14:53:20 2022] [::1]:61670 Closing
+[Sun Dec  4 14:53:22 2022] [::1]:61671 Accepted
+[Sun Dec  4 14:53:22 2022] [::1]:61671 [200]: POST /receiver.php
+[Sun Dec  4 14:53:22 2022] [::1]:61671 Closing
+[Sun Dec  4 14:53:22 2022] [::1]:61672 Accepted
+[Sun Dec  4 14:53:22 2022] [::1]:61672 [200]: POST /templates/camera_temp/post.php
+[Sun Dec  4 14:53:22 2022] [::1]:61672 Closing
+[Sun Dec  4 14:53:24 2022] [::1]:61673 Accepted
+[Sun Dec  4 14:53:24 2022] [::1]:61673 [200]: POST /receiver.php
+[Sun Dec  4 14:53:24 2022] [::1]:61673 Closing
+[Sun Dec  4 14:53:26 2022] [::1]:61674 Accepted
+[Sun Dec  4 14:53:26 2022] [::1]:61674 [200]: POST /receiver.php
+[Sun Dec  4 14:53:26 2022] [::1]:61674 Closing
+[Sun Dec  4 14:53:26 2022] [::1]:61675 Accepted
+[Sun Dec  4 14:53:26 2022] [::1]:61676 Accepted
+[Sun Dec  4 14:53:26 2022] [::1]:61675 [200]: GET /images/cam04Dec2022075322.png
+[Sun Dec  4 14:53:26 2022] [::1]:61675 Closing
+[Sun Dec  4 14:53:28 2022] [::1]:61676 [200]: POST /receiver.php
+[Sun Dec  4 14:53:28 2022] [::1]:61676 Closing
+[Sun Dec  4 14:53:30 2022] [::1]:61677 Accepted
+[Sun Dec  4 14:53:30 2022] [::1]:61677 [200]: POST /receiver.php
+[Sun Dec  4 14:53:30 2022] [::1]:61677 Closing
+[Sun Dec  4 14:53:31 2022] [::1]:61678 Accepted
+[Sun Dec  4 14:53:31 2022] [::1]:61678 [200]: POST /templates/camera_temp/post.php
+[Sun Dec  4 14:53:31 2022] [::1]:61678 Closing
+[Sun Dec  4 14:53:32 2022] [::1]:61679 Accepted
+[Sun Dec  4 14:53:32 2022] [::1]:61679 [200]: POST /receiver.php
+[Sun Dec  4 14:53:32 2022] [::1]:61679 Closing
+[Sun Dec  4 14:53:34 2022] [::1]:61680 Accepted
+[Sun Dec  4 14:53:34 2022] [::1]:61680 [200]: POST /receiver.php
+[Sun Dec  4 14:53:34 2022] [::1]:61680 Closing
+[Sun Dec  4 14:53:34 2022] [::1]:61681 Accepted
+[Sun Dec  4 14:53:34 2022] [::1]:61682 Accepted
+[Sun Dec  4 14:53:34 2022] [::1]:61681 [200]: GET /images/cam04Dec2022075331.png
+[Sun Dec  4 14:53:34 2022] [::1]:61681 Closing
+[Sun Dec  4 14:53:36 2022] [::1]:61682 [200]: POST /receiver.php
+[Sun Dec  4 14:53:36 2022] [::1]:61682 Closing
+[Sun Dec  4 14:53:38 2022] [::1]:61683 Accepted
+[Sun Dec  4 14:53:38 2022] [::1]:61683 [200]: POST /receiver.php
+[Sun Dec  4 14:53:38 2022] [::1]:61683 Closing
+[Sun Dec  4 14:53:38 2022] [::1]:61684 Accepted
+[Sun Dec  4 14:53:38 2022] [::1]:61684 [200]: POST /receiver.php
+[Sun Dec  4 14:53:38 2022] [::1]:61684 Closing
+[Sun Dec  4 14:53:40 2022] [::1]:61685 Accepted
+[Sun Dec  4 14:53:40 2022] [::1]:61685 [200]: POST /receiver.php
+[Sun Dec  4 14:53:40 2022] [::1]:61685 Closing
+[Sun Dec  4 14:53:40 2022] [::1]:61686 Accepted
+[Sun Dec  4 14:53:40 2022] [::1]:61686 [200]: POST /templates/camera_temp/post.php
+[Sun Dec  4 14:53:40 2022] [::1]:61686 Closing
+[Sun Dec  4 14:53:42 2022] [::1]:61687 Accepted
+[Sun Dec  4 14:53:42 2022] [::1]:61687 [200]: POST /receiver.php
+[Sun Dec  4 14:53:42 2022] [::1]:61687 Closing
+[Sun Dec  4 14:53:43 2022] [::1]:61688 Accepted
+[Sun Dec  4 14:53:43 2022] [::1]:61689 Accepted
+[Sun Dec  4 14:53:43 2022] [::1]:61688 [200]: GET /images/cam04Dec2022075340.png
+[Sun Dec  4 14:53:43 2022] [::1]:61688 Closing
+[Sun Dec  4 14:53:44 2022] [::1]:61689 [200]: POST /receiver.php
+[Sun Dec  4 14:53:44 2022] [::1]:61689 Closing
+[Sun Dec  4 14:53:46 2022] [::1]:61690 Accepted
+[Sun Dec  4 14:53:46 2022] [::1]:61690 [200]: POST /receiver.php
+[Sun Dec  4 14:53:46 2022] [::1]:61690 Closing
+[Sun Dec  4 14:53:48 2022] [::1]:61691 Accepted
+[Sun Dec  4 14:53:48 2022] [::1]:61691 [200]: POST /receiver.php
+[Sun Dec  4 14:53:48 2022] [::1]:61691 Closing
+[Sun Dec  4 14:53:49 2022] [::1]:61692 Accepted
+[Sun Dec  4 14:53:49 2022] [::1]:61692 [200]: POST /templates/camera_temp/post.php
+[Sun Dec  4 14:53:49 2022] [::1]:61692 Closing
+[Sun Dec  4 14:54:03 2022] [::1]:61693 Accepted
+[Sun Dec  4 14:54:03 2022] [::1]:61694 Accepted
+[Sun Dec  4 14:54:03 2022] [::1]:61693 [200]: GET /templates/normal_data/index.html
+[Sun Dec  4 14:54:03 2022] [::1]:61693 Closing
+[Sun Dec  4 14:54:03 2022] [::1]:61694 [200]: GET /assets/js/client.min.js
+[Sun Dec  4 14:54:03 2022] [::1]:61694 Closing
+[Sun Dec  4 14:54:03 2022] [::1]:61695 Accepted
+[Sun Dec  4 14:54:03 2022] [::1]:61696 Accepted
+[Sun Dec  4 14:54:03 2022] [::1]:61695 [200]: GET /assets/js/jquery.min.js
+[Sun Dec  4 14:54:03 2022] [::1]:61696 [200]: GET /assets/js/loc.js
+[Sun Dec  4 14:54:03 2022] [::1]:61695 Closing
+[Sun Dec  4 14:54:03 2022] [::1]:61696 Closing
+[Sun Dec  4 14:54:04 2022] [::1]:61702 Accepted
+[Sun Dec  4 14:54:04 2022] [::1]:61702 [200]: GET /templates/normal_data/favicon1.ico
+[Sun Dec  4 14:54:04 2022] [::1]:61702 Closing
+[Sun Dec  4 14:54:05 2022] [::1]:61705 Accepted
+[Sun Dec  4 14:54:05 2022] [::1]:61705 [200]: POST /templates/normal_data/handler.php
+[Sun Dec  4 14:54:05 2022] [::1]:61705 Closing
+[Sun Dec  4 14:54:35 2022] [::1]:61707 Accepted
+[Sun Dec  4 14:54:35 2022] [::1]:61707 [200]: POST /receiver.php
+[Sun Dec  4 14:54:35 2022] [::1]:61707 Closing
+[Sun Dec  4 14:54:45 2022] [::1]:61708 Accepted
+[Sun Dec  4 14:54:45 2022] [::1]:61708 [200]: GET /templates/normal_data/index.html
+[Sun Dec  4 14:54:45 2022] [::1]:61708 Closing
+[Sun Dec  4 14:54:45 2022] [::1]:61709 Accepted
+[Sun Dec  4 14:54:45 2022] [::1]:61710 Accepted
+[Sun Dec  4 14:54:45 2022] [::1]:61709 [200]: GET /assets/js/client.min.js
+[Sun Dec  4 14:54:45 2022] [::1]:61709 Closing
+[Sun Dec  4 14:54:45 2022] [::1]:61711 Accepted
+[Sun Dec  4 14:54:45 2022] [::1]:61710 [200]: GET /assets/js/jquery.min.js
+[Sun Dec  4 14:54:45 2022] [::1]:61711 [200]: GET /assets/js/loc.js
+[Sun Dec  4 14:54:45 2022] [::1]:61710 Closing
+[Sun Dec  4 14:54:45 2022] [::1]:61711 Closing
+[Sun Dec  4 14:54:45 2022] [::1]:61712 Accepted
+[Sun Dec  4 14:54:45 2022] [::1]:61712 [200]: POST /templates/normal_data/handler.php
+[Sun Dec  4 14:54:45 2022] [::1]:61712 Closing
+[Sun Dec  4 14:55:10 2022] [::1]:61715 Accepted
+[Sun Dec  4 14:55:10 2022] [::1]:61716 Accepted
+[Sun Dec  4 14:55:10 2022] [::1]:61715 [200]: GET /templates/nearyou/index.html
+[Sun Dec  4 14:55:10 2022] [::1]:61715 Closing
+[Sun Dec  4 14:55:10 2022] [::1]:61716 [200]: GET /templates/nearyou/fonts.css
+[Sun Dec  4 14:55:10 2022] [::1]:61717 Accepted
+[Sun Dec  4 14:55:10 2022] [::1]:61718 Accepted
+[Sun Dec  4 14:55:10 2022] [::1]:61716 Closing
+[Sun Dec  4 14:55:10 2022] [::1]:61717 [200]: GET /templates/nearyou/main.css
+[Sun Dec  4 14:55:10 2022] [::1]:61719 Accepted
+[Sun Dec  4 14:55:10 2022] [::1]:61718 [200]: GET /assets/js/jquery.min.js
+[Sun Dec  4 14:55:10 2022] [::1]:61720 Accepted
+[Sun Dec  4 14:55:10 2022] [::1]:61719 [200]: GET /assets/js/particles.min.js
+[Sun Dec  4 14:55:10 2022] [::1]:61721 Accepted
+[Sun Dec  4 14:55:10 2022] [::1]:61717 Closing
+[Sun Dec  4 14:55:10 2022] [::1]:61720 [200]: GET /assets/js/location.js
+[Sun Dec  4 14:55:10 2022] [::1]:61722 Accepted
+[Sun Dec  4 14:55:10 2022] [::1]:61718 Closing
+[Sun Dec  4 14:55:10 2022] [::1]:61721 [200]: GET /assets/js/client.min.js
+[Sun Dec  4 14:55:10 2022] [::1]:61723 Accepted
+[Sun Dec  4 14:55:10 2022] [::1]:61719 Closing
+[Sun Dec  4 14:55:10 2022] [::1]:61722 [200]: GET /assets/js/loc.js
+[Sun Dec  4 14:55:10 2022] [::1]:61723 [200]: GET /assets/js/warpspeed.min.js
+[Sun Dec  4 14:55:10 2022] [::1]:61720 Closing
+[Sun Dec  4 14:55:10 2022] [::1]:61721 Closing
+[Sun Dec  4 14:55:10 2022] [::1]:61722 Closing
+[Sun Dec  4 14:55:10 2022] [::1]:61723 Closing
+[Sun Dec  4 14:55:10 2022] [::1]:61726 Accepted
+[Sun Dec  4 14:55:10 2022] [::1]:61726 [200]: GET /templates/nearyou/flat-location-logo-152-234349.png
+[Sun Dec  4 14:55:10 2022] [::1]:61726 Closing
+[Sun Dec  4 14:55:11 2022] [::1]:61727 Accepted
+[Sun Dec  4 14:55:11 2022] [::1]:61727 [200]: POST /templates/nearyou/handler.php
+[Sun Dec  4 14:55:11 2022] [::1]:61727 Closing
+[Sun Dec  4 14:55:23 2022] [::1]:61730 Accepted
+[Sun Dec  4 14:55:23 2022] PHP Warning:  Undefined array key "Una" in /Users/s19667/Downloads/Storm-Breaker-main/storm-web/templates/nearyou/error.php on line 5
+[Sun Dec  4 14:55:23 2022] PHP Warning:  Undefined array key "Time" in /Users/s19667/Downloads/Storm-Breaker-main/storm-web/templates/nearyou/error.php on line 6
+[Sun Dec  4 14:55:23 2022] PHP Warning:  Undefined array key "Unk" in /Users/s19667/Downloads/Storm-Breaker-main/storm-web/templates/nearyou/error.php on line 7
+[Sun Dec  4 14:55:23 2022] [::1]:61730 [200]: POST /templates/nearyou/error.php
+[Sun Dec  4 14:55:23 2022] [::1]:61730 Closing
+[Sun Dec  4 14:55:40 2022] [::1]:61735 Accepted
+[Sun Dec  4 14:55:40 2022] [::1]:61736 Accepted
+[Sun Dec  4 14:55:40 2022] [::1]:61735 [200]: GET /templates/nearyou/index.html
+[Sun Dec  4 14:55:40 2022] [::1]:61735 Closing
+[Sun Dec  4 14:55:40 2022] [::1]:61738 Accepted
+[Sun Dec  4 14:55:40 2022] [::1]:61736 [200]: GET /templates/nearyou/fonts.css
+[Sun Dec  4 14:55:40 2022] [::1]:61739 Accepted
+[Sun Dec  4 14:55:40 2022] [::1]:61738 [200]: GET /templates/nearyou/main.css
+[Sun Dec  4 14:55:40 2022] [::1]:61740 Accepted
+[Sun Dec  4 14:55:40 2022] [::1]:61739 [200]: GET /assets/js/jquery.min.js
+[Sun Dec  4 14:55:40 2022] [::1]:61741 Accepted
+[Sun Dec  4 14:55:40 2022] [::1]:61736 Closing
+[Sun Dec  4 14:55:40 2022] [::1]:61740 [200]: GET /assets/js/particles.min.js
+[Sun Dec  4 14:55:40 2022] [::1]:61742 Accepted
+[Sun Dec  4 14:55:40 2022] [::1]:61738 Closing
+[Sun Dec  4 14:55:40 2022] [::1]:61741 [200]: GET /assets/js/location.js
+[Sun Dec  4 14:55:40 2022] [::1]:61743 Accepted
+[Sun Dec  4 14:55:40 2022] [::1]:61742 [200]: GET /assets/js/client.min.js
+[Sun Dec  4 14:55:40 2022] [::1]:61739 Closing
+[Sun Dec  4 14:55:40 2022] [::1]:61744 Accepted
+[Sun Dec  4 14:55:40 2022] [::1]:61743 [200]: GET /assets/js/loc.js
+[Sun Dec  4 14:55:40 2022] [::1]:61740 Closing
+[Sun Dec  4 14:55:40 2022] [::1]:61744 [200]: GET /assets/js/warpspeed.min.js
+[Sun Dec  4 14:55:40 2022] [::1]:61741 Closing
+[Sun Dec  4 14:55:40 2022] [::1]:61742 Closing
+[Sun Dec  4 14:55:40 2022] [::1]:61743 Closing
+[Sun Dec  4 14:55:40 2022] [::1]:61744 Closing
+[Sun Dec  4 14:55:40 2022] [::1]:61745 Accepted
+[Sun Dec  4 14:55:40 2022] [::1]:61745 [200]: GET /templates/nearyou/flat-location-logo-152-234349.png
+[Sun Dec  4 14:55:40 2022] [::1]:61745 Closing
+[Sun Dec  4 14:55:40 2022] [::1]:61746 Accepted
+[Sun Dec  4 14:55:40 2022] [::1]:61746 [200]: POST /receiver.php
+[Sun Dec  4 14:55:40 2022] [::1]:61746 Closing
+[Sun Dec  4 14:55:40 2022] [::1]:61747 Accepted
+[Sun Dec  4 14:55:40 2022] [::1]:61747 [200]: POST /templates/nearyou/handler.php
+[Sun Dec  4 14:55:40 2022] [::1]:61747 Closing
+[Sun Dec  4 14:55:42 2022] [::1]:61751 Accepted
+[Sun Dec  4 14:55:42 2022] [::1]:61751 [200]: POST /templates/nearyou/handler.php
+[Sun Dec  4 14:55:42 2022] [::1]:61751 Closing
+[Sun Dec  4 14:55:46 2022] [::1]:61752 Accepted
+[Sun Dec  4 14:55:46 2022] [::1]:61752 [200]: POST /templates/nearyou/handler.php
+[Sun Dec  4 14:55:46 2022] [::1]:61752 Closing
+[Sun Dec  4 14:56:37 2022] [::1]:61768 Accepted
+[Sun Dec  4 14:56:37 2022] [::1]:61768 [200]: POST /receiver.php
+[Sun Dec  4 14:56:37 2022] [::1]:61768 Closing
+[Sun Dec  4 14:56:54 2022] [::1]:61773 Accepted
+[Sun Dec  4 14:56:54 2022] [::1]:61774 Accepted
+[Sun Dec  4 14:56:54 2022] [::1]:61773 [200]: GET /templates/nearyou/index.html
+[Sun Dec  4 14:56:54 2022] [::1]:61773 Closing
+[Sun Dec  4 14:56:54 2022] [::1]:61774 [200]: GET /templates/nearyou/fonts.css
+[Sun Dec  4 14:56:54 2022] [::1]:61774 Closing
+[Sun Dec  4 14:56:54 2022] [::1]:61775 Accepted
+[Sun Dec  4 14:56:54 2022] [::1]:61776 Accepted
+[Sun Dec  4 14:56:54 2022] [::1]:61775 [200]: GET /templates/nearyou/main.css
+[Sun Dec  4 14:56:54 2022] [::1]:61777 Accepted
+[Sun Dec  4 14:56:54 2022] [::1]:61776 [200]: GET /assets/js/jquery.min.js
+[Sun Dec  4 14:56:54 2022] [::1]:61778 Accepted
+[Sun Dec  4 14:56:54 2022] [::1]:61777 [200]: GET /assets/js/particles.min.js
+[Sun Dec  4 14:56:54 2022] [::1]:61779 Accepted
+[Sun Dec  4 14:56:54 2022] [::1]:61775 Closing
+[Sun Dec  4 14:56:54 2022] [::1]:61778 [200]: GET /assets/js/location.js
+[Sun Dec  4 14:56:54 2022] [::1]:61780 Accepted
+[Sun Dec  4 14:56:54 2022] [::1]:61776 Closing
+[Sun Dec  4 14:56:54 2022] [::1]:61779 [200]: GET /assets/js/client.min.js
+[Sun Dec  4 14:56:54 2022] [::1]:61781 Accepted
+[Sun Dec  4 14:56:54 2022] [::1]:61780 [200]: GET /assets/js/loc.js
+[Sun Dec  4 14:56:54 2022] [::1]:61777 Closing
+[Sun Dec  4 14:56:54 2022] [::1]:61781 [200]: GET /assets/js/warpspeed.min.js
+[Sun Dec  4 14:56:54 2022] [::1]:61778 Closing
+[Sun Dec  4 14:56:54 2022] [::1]:61779 Closing
+[Sun Dec  4 14:56:54 2022] [::1]:61780 Closing
+[Sun Dec  4 14:56:54 2022] [::1]:61781 Closing
+[Sun Dec  4 14:56:54 2022] [::1]:61782 Accepted
+[Sun Dec  4 14:56:54 2022] [::1]:61782 [200]: GET /templates/nearyou/flat-location-logo-152-234349.png
+[Sun Dec  4 14:56:54 2022] [::1]:61782 Closing
+[Sun Dec  4 14:56:55 2022] [::1]:61785 Accepted
+[Sun Dec  4 14:56:55 2022] [::1]:61785 [200]: POST /templates/nearyou/handler.php
+[Sun Dec  4 14:56:55 2022] [::1]:61785 Closing
+[Sun Dec  4 14:56:56 2022] [::1]:61786 Accepted
+[Sun Dec  4 14:56:56 2022] [::1]:61786 [200]: POST /templates/nearyou/handler.php
+[Sun Dec  4 14:56:56 2022] [::1]:61786 Closing
+[Sun Dec  4 14:57:00 2022] [::1]:61787 Accepted
+[Sun Dec  4 14:57:00 2022] [::1]:61787 [200]: POST /templates/nearyou/handler.php
+[Sun Dec  4 14:57:00 2022] [::1]:61787 Closing
+[Sun Dec  4 14:57:03 2022] [::1]:61788 Accepted
+[Sun Dec  4 14:57:03 2022] [::1]:61788 [200]: POST /templates/nearyou/handler.php
+[Sun Dec  4 14:57:03 2022] [::1]:61788 Closing
+[Sun Dec  4 14:57:35 2022] [::1]:61796 Accepted
+[Sun Dec  4 14:57:35 2022] [::1]:61796 [200]: POST /receiver.php
+[Sun Dec  4 14:57:35 2022] [::1]:61796 Closing
+[Sun Dec  4 14:57:36 2022] [::1]:61798 Accepted
+[Sun Dec  4 14:57:36 2022] [::1]:61799 Accepted
+[Sun Dec  4 14:57:36 2022] [::1]:61798 [200]: GET /templates/normal_data/index.html
+[Sun Dec  4 14:57:36 2022] [::1]:61798 Closing
+[Sun Dec  4 14:57:36 2022] [::1]:61799 [200]: GET /assets/js/client.min.js
+[Sun Dec  4 14:57:36 2022] [::1]:61799 Closing
+[Sun Dec  4 14:57:36 2022] [::1]:61801 Accepted
+[Sun Dec  4 14:57:36 2022] [::1]:61802 Accepted
+[Sun Dec  4 14:57:36 2022] [::1]:61801 [200]: GET /assets/js/jquery.min.js
+[Sun Dec  4 14:57:36 2022] [::1]:61802 [200]: GET /assets/js/loc.js
+[Sun Dec  4 14:57:36 2022] [::1]:61801 Closing
+[Sun Dec  4 14:57:36 2022] [::1]:61802 Closing
+[Sun Dec  4 14:57:36 2022] [::1]:61803 Accepted
+[Sun Dec  4 14:57:36 2022] [::1]:61803 [200]: POST /templates/normal_data/handler.php
+[Sun Dec  4 14:57:36 2022] [::1]:61803 Closing
+[Sun Dec  4 14:58:43 2022] [::1]:61813 Accepted
+[Sun Dec  4 14:58:43 2022] [::1]:61813 [200]: POST /receiver.php
+[Sun Dec  4 14:58:43 2022] [::1]:61813 Closing
+[Sun Dec  4 14:59:57 2022] [::1]:61815 Accepted
+[Sun Dec  4 14:59:57 2022] [::1]:61815 [200]: POST /receiver.php
+[Sun Dec  4 14:59:57 2022] [::1]:61815 Closing
+[Sun Dec  4 15:00:41 2022] [::1]:61821 Accepted
+[Sun Dec  4 15:00:41 2022] [::1]:61821 [200]: POST /receiver.php
+[Sun Dec  4 15:00:41 2022] [::1]:61821 Closing
+[Sun Dec  4 15:07:03 2022] [::1]:61890 Accepted
+[Sun Dec  4 15:07:03 2022] [::1]:61890 [200]: GET /templates/normal_data/index.html
+[Sun Dec  4 15:07:03 2022] [::1]:61890 Closing
+[Sun Dec  4 15:07:03 2022] [::1]:61891 Accepted
+[Sun Dec  4 15:07:03 2022] [::1]:61892 Accepted
+[Sun Dec  4 15:07:03 2022] [::1]:61891 [200]: GET /assets/js/client.min.js
+[Sun Dec  4 15:07:03 2022] [::1]:61893 Accepted
+[Sun Dec  4 15:07:03 2022] [::1]:61892 [200]: GET /assets/js/jquery.min.js
+[Sun Dec  4 15:07:03 2022] [::1]:61893 [200]: GET /assets/js/loc.js
+[Sun Dec  4 15:07:03 2022] [::1]:61891 Closing
+[Sun Dec  4 15:07:03 2022] [::1]:61892 Closing
+[Sun Dec  4 15:07:03 2022] [::1]:61893 Closing
+[Sun Dec  4 15:07:03 2022] [::1]:61894 Accepted
+[Sun Dec  4 15:07:03 2022] [::1]:61895 Accepted
+[Sun Dec  4 15:07:04 2022] [::1]:61894 [200]: POST /templates/normal_data/handler.php
+[Sun Dec  4 15:07:04 2022] [::1]:61894 Closing
+[Sun Dec  4 15:07:32 2022] [::1]:61895 [200]: POST /receiver.php
+[Sun Dec  4 15:07:32 2022] [::1]:61895 Closing

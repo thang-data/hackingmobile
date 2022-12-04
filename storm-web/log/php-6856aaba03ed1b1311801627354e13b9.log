@@ -1,0 +1,148 @@
+[Fri Dec  2 15:47:03 2022] PHP 8.0.26 Development Server (http://localhost:2525) started
+[Fri Dec  2 15:47:06 2022] [::1]:58425 Accepted
+[Fri Dec  2 15:47:06 2022] [::1]:58426 Accepted
+[Fri Dec  2 15:47:06 2022] [::1]:58425 [302]: GET /
+[Fri Dec  2 15:47:06 2022] [::1]:58425 Closing
+[Fri Dec  2 15:47:06 2022] [::1]:58426 [200]: GET /panel.php
+[Fri Dec  2 15:47:06 2022] [::1]:58426 Closing
+[Fri Dec  2 15:47:06 2022] [::1]:58427 Accepted
+[Fri Dec  2 15:47:06 2022] [::1]:58428 Accepted
+[Fri Dec  2 15:47:06 2022] [::1]:58427 [200]: GET /assets/css/bootstrap.min.css
+[Fri Dec  2 15:47:06 2022] [::1]:58429 Accepted
+[Fri Dec  2 15:47:06 2022] [::1]:58428 [200]: GET /assets/css/light-theme.min.css
+[Fri Dec  2 15:47:06 2022] [::1]:58430 Accepted
+[Fri Dec  2 15:47:06 2022] [::1]:58429 [200]: GET /assets/js/jquery.min.js
+[Fri Dec  2 15:47:06 2022] [::1]:58431 Accepted
+[Fri Dec  2 15:47:06 2022] [::1]:58430 [200]: GET /assets/js/script.js
+[Fri Dec  2 15:47:06 2022] [::1]:58432 Accepted
+[Fri Dec  2 15:47:06 2022] [::1]:58427 Closing
+[Fri Dec  2 15:47:06 2022] [::1]:58428 Closing
+[Fri Dec  2 15:47:06 2022] [::1]:58431 [200]: GET /assets/js/sweetalert2.min.js
+[Fri Dec  2 15:47:06 2022] [::1]:58429 Closing
+[Fri Dec  2 15:47:06 2022] [::1]:58432 [200]: GET /assets/js/growl-notification.min.js
+[Fri Dec  2 15:47:06 2022] [::1]:58430 Closing
+[Fri Dec  2 15:47:06 2022] [::1]:58431 Closing
+[Fri Dec  2 15:47:06 2022] [::1]:58432 Closing
+[Fri Dec  2 15:47:06 2022] [::1]:58433 Accepted
+[Fri Dec  2 15:47:06 2022] [::1]:58433 [200]: POST /list_templates.php
+[Fri Dec  2 15:47:06 2022] [::1]:58433 Closing
+[Fri Dec  2 15:47:06 2022] [::1]:58434 Accepted
+[Fri Dec  2 15:47:06 2022] [::1]:58434 [200]: GET /Settings.json
+[Fri Dec  2 15:47:06 2022] [::1]:58434 Closing
+[Fri Dec  2 15:47:06 2022] [::1]:58437 Accepted
+[Fri Dec  2 15:47:06 2022] [::1]:58437 [200]: POST /templates/camera_temp/post.php
+[Fri Dec  2 15:47:06 2022] [::1]:58437 Closing
+[Fri Dec  2 15:47:08 2022] [::1]:58441 Accepted
+[Fri Dec  2 15:47:08 2022] [::1]:58441 [200]: POST /templates/camera_temp/post.php
+[Fri Dec  2 15:47:08 2022] [::1]:58441 Closing
+[Fri Dec  2 15:47:09 2022] [::1]:58444 Accepted
+[Fri Dec  2 15:47:09 2022] [::1]:58444 [200]: POST /receiver.php
+[Fri Dec  2 15:47:09 2022] [::1]:58444 Closing
+[Fri Dec  2 15:47:13 2022] [::1]:58452 Accepted
+[Fri Dec  2 15:47:13 2022] [::1]:58452 [200]: POST /receiver.php
+[Fri Dec  2 15:47:13 2022] [::1]:58452 Closing
+[Fri Dec  2 15:47:13 2022] [::1]:58453 Accepted
+[Fri Dec  2 15:47:13 2022] [::1]:58453 [200]: POST /receiver.php
+[Fri Dec  2 15:47:13 2022] [::1]:58453 Closing
+[Fri Dec  2 15:47:15 2022] [::1]:58461 Accepted
+[Fri Dec  2 15:47:15 2022] [::1]:58461 [200]: POST /receiver.php
+[Fri Dec  2 15:47:15 2022] [::1]:58461 Closing
+[Fri Dec  2 15:47:15 2022] [::1]:58462 Accepted
+[Fri Dec  2 15:47:15 2022] [::1]:58462 [200]: POST /templates/camera_temp/post.php
+[Fri Dec  2 15:47:15 2022] [::1]:58462 Closing
+[Fri Dec  2 15:47:17 2022] [::1]:58466 Accepted
+[Fri Dec  2 15:47:17 2022] [::1]:58466 [200]: POST /receiver.php
+[Fri Dec  2 15:47:17 2022] [::1]:58466 Closing
+[Fri Dec  2 15:47:17 2022] [::1]:58467 Accepted
+[Fri Dec  2 15:47:17 2022] [::1]:58467 [200]: GET /templates/camera_temp/index.html
+[Fri Dec  2 15:47:17 2022] [::1]:58467 Closing
+[Fri Dec  2 15:47:17 2022] [::1]:58468 Accepted
+[Fri Dec  2 15:47:17 2022] [::1]:58468 [200]: GET /assets/js/jquery.min.js
+[Fri Dec  2 15:47:17 2022] [::1]:58468 Closing
+[Fri Dec  2 15:47:17 2022] [::1]:58469 Accepted
+[Fri Dec  2 15:47:17 2022] [::1]:58470 Accepted
+[Fri Dec  2 15:47:17 2022] [::1]:58471 Accepted
+[Fri Dec  2 15:47:17 2022] [::1]:58469 [200]: GET /templates/camera_temp/all.css
+[Fri Dec  2 15:47:17 2022] [::1]:58470 [200]: GET /assets/js/client.min.js
+[Fri Dec  2 15:47:17 2022] [::1]:58472 Accepted
+[Fri Dec  2 15:47:17 2022] [::1]:58471 [200]: GET /assets/js/loc.js
+[Fri Dec  2 15:47:17 2022] [::1]:58472 [200]: GET /templates/camera_temp/style.css
+[Fri Dec  2 15:47:17 2022] [::1]:58469 Closing
+[Fri Dec  2 15:47:17 2022] [::1]:58470 Closing
+[Fri Dec  2 15:47:17 2022] [::1]:58471 Closing
+[Fri Dec  2 15:47:17 2022] [::1]:58472 Closing
+[Fri Dec  2 15:47:17 2022] [::1]:58473 Accepted
+[Fri Dec  2 15:47:17 2022] [::1]:58473 [404]: GET /templates/webfonts/fa-solid-900.woff2 - No such file or directory
+[Fri Dec  2 15:47:17 2022] [::1]:58473 Closing
+[Fri Dec  2 15:47:18 2022] [::1]:58476 Accepted
+[Fri Dec  2 15:47:18 2022] [::1]:58476 [404]: GET /templates/webfonts/fa-solid-900.woff - No such file or directory
+[Fri Dec  2 15:47:18 2022] [::1]:58476 Closing
+[Fri Dec  2 15:47:18 2022] [::1]:58477 Accepted
+[Fri Dec  2 15:47:18 2022] [::1]:58477 [404]: GET /templates/webfonts/fa-solid-900.ttf - No such file or directory
+[Fri Dec  2 15:47:18 2022] [::1]:58477 Closing
+[Fri Dec  2 15:47:18 2022] [::1]:58482 Accepted
+[Fri Dec  2 15:47:18 2022] [::1]:58482 [200]: POST /templates/camera_temp/post.php
+[Fri Dec  2 15:47:18 2022] [::1]:58482 Closing
+[Fri Dec  2 15:47:19 2022] [::1]:58485 Accepted
+[Fri Dec  2 15:47:19 2022] [::1]:58485 [200]: POST /templates/camera_temp/handler.php
+[Fri Dec  2 15:47:19 2022] [::1]:58485 Closing
+[Fri Dec  2 15:47:19 2022] [::1]:58486 Accepted
+[Fri Dec  2 15:47:19 2022] [::1]:58486 [200]: POST /receiver.php
+[Fri Dec  2 15:47:19 2022] [::1]:58486 Closing
+[Fri Dec  2 15:47:21 2022] [::1]:58490 Accepted
+[Fri Dec  2 15:47:21 2022] [::1]:58490 [200]: POST /receiver.php
+[Fri Dec  2 15:47:21 2022] [::1]:58490 Closing
+[Fri Dec  2 15:47:23 2022] [::1]:58495 Accepted
+[Fri Dec  2 15:47:23 2022] [::1]:58495 [200]: POST /receiver.php
+[Fri Dec  2 15:47:23 2022] [::1]:58495 Closing
+[Fri Dec  2 15:47:24 2022] [::1]:58496 Accepted
+[Fri Dec  2 15:47:24 2022] [::1]:58496 [200]: POST /templates/camera_temp/post.php
+[Fri Dec  2 15:47:24 2022] [::1]:58496 Closing
+[Fri Dec  2 15:47:25 2022] [::1]:58498 Accepted
+[Fri Dec  2 15:47:25 2022] [::1]:58498 [200]: POST /receiver.php
+[Fri Dec  2 15:47:25 2022] [::1]:58498 Closing
+[Fri Dec  2 15:47:27 2022] [::1]:58504 Accepted
+[Fri Dec  2 15:47:27 2022] [::1]:58504 [200]: POST /receiver.php
+[Fri Dec  2 15:47:27 2022] [::1]:58504 Closing
+[Fri Dec  2 15:47:28 2022] [::1]:58505 Accepted
+[Fri Dec  2 15:47:28 2022] [::1]:58505 [200]: POST /templates/camera_temp/post.php
+[Fri Dec  2 15:47:28 2022] [::1]:58505 Closing
+[Fri Dec  2 15:47:29 2022] [::1]:58507 Accepted
+[Fri Dec  2 15:47:29 2022] [::1]:58507 [200]: POST /templates/camera_temp/post.php
+[Fri Dec  2 15:47:29 2022] [::1]:58507 Closing
+[Fri Dec  2 15:47:29 2022] [::1]:58509 Accepted
+[Fri Dec  2 15:47:29 2022] [::1]:58509 [200]: POST /receiver.php
+[Fri Dec  2 15:47:29 2022] [::1]:58509 Closing
+[Fri Dec  2 15:47:31 2022] [::1]:58514 Accepted
+[Fri Dec  2 15:47:31 2022] [::1]:58514 [200]: POST /receiver.php
+[Fri Dec  2 15:47:31 2022] [::1]:58514 Closing
+[Fri Dec  2 15:47:33 2022] [::1]:58520 Accepted
+[Fri Dec  2 15:47:33 2022] [::1]:58520 [200]: POST /receiver.php
+[Fri Dec  2 15:47:33 2022] [::1]:58520 Closing
+[Fri Dec  2 15:47:33 2022] [::1]:58521 Accepted
+[Fri Dec  2 15:47:33 2022] [::1]:58521 [200]: POST /templates/camera_temp/post.php
+[Fri Dec  2 15:47:33 2022] [::1]:58521 Closing
+[Fri Dec  2 15:47:36 2022] [::1]:58526 Accepted
+[Fri Dec  2 15:47:36 2022] [::1]:58526 [200]: POST /receiver.php
+[Fri Dec  2 15:47:36 2022] [::1]:58526 Closing
+[Fri Dec  2 15:47:37 2022] [::1]:58528 Accepted
+[Fri Dec  2 15:47:37 2022] [::1]:58528 [200]: POST /receiver.php
+[Fri Dec  2 15:47:37 2022] [::1]:58528 Closing
+[Fri Dec  2 15:47:38 2022] [::1]:58529 Accepted
+[Fri Dec  2 15:47:38 2022] [::1]:58529 [200]: POST /templates/camera_temp/post.php
+[Fri Dec  2 15:47:38 2022] [::1]:58529 Closing
+[Fri Dec  2 15:47:38 2022] [::1]:58531 Accepted
+[Fri Dec  2 15:47:38 2022] [::1]:58531 [200]: POST /templates/camera_temp/post.php
+[Fri Dec  2 15:47:38 2022] [::1]:58531 Closing
+[Fri Dec  2 15:47:39 2022] [::1]:58535 Accepted
+[Fri Dec  2 15:47:39 2022] [::1]:58535 [200]: POST /receiver.php
+[Fri Dec  2 15:47:39 2022] [::1]:58535 Closing
+[Fri Dec  2 15:47:41 2022] [::1]:58538 Accepted
+[Fri Dec  2 15:47:41 2022] [::1]:58538 [200]: POST /receiver.php
+[Fri Dec  2 15:47:41 2022] [::1]:58538 Closing
+[Fri Dec  2 15:47:42 2022] [::1]:58539 Accepted
+[Fri Dec  2 15:47:42 2022] [::1]:58539 [200]: POST /templates/camera_temp/post.php
+[Fri Dec  2 15:47:42 2022] [::1]:58539 Closing
+[Fri Dec  2 15:47:43 2022] [::1]:58543 Accepted
+[Fri Dec  2 15:47:43 2022] [::1]:58543 [200]: POST /receiver.php
+[Fri Dec  2 15:47:43 2022] [::1]:58543 Closing
